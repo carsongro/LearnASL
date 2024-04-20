@@ -1,5 +1,7 @@
 # LearnASL - Swift Student Challenge 2024 Winner
 
+Check it out on the [App Store](https://apps.apple.com/us/app/learn-asl-alphabet/id6479541571?mt=12)
+
 LearnASL is an app designed to teach you the American Sign Language alphabet in an interactive way. The app detects hand symbols through the camera and provides instant feedback if the sign is correct or not! As you get letters correct it automatically moves through the alphabet, or you can practice specific letters. It also has a Quiz Mode for you to test your knowledge of the ASL alphabet!
 
 <img width="1295" alt="Screenshot 2024-04-19 at 7 52 14 PM" src="https://github.com/carsongro/LearnASL/assets/94569763/ed754746-ab95-4bce-bf00-37de585d7723">
